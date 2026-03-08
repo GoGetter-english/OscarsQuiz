@@ -4,11 +4,11 @@ Oscars Quiz – Privacy Policy
 
 Oscars Quiz, respects your privacy. This Privacy Policy explains what information we collect, how we use it, and your rights when using the Oscars Quiz mobile application.
 
-Information Collected
+## Information Collected
 
 When you use the app, we may collect the following information:
 
-Account Information
+## Account Information
 
 If you sign in using email or Google Sign-In, we may collect:
 
@@ -16,7 +16,7 @@ If you sign in using email or Google Sign-In, we may collect:
 * Public display name
 * User ID associated with your account
 
-Gameplay Data
+## Gameplay Data
 
 To provide app functionality and leaderboards, we may store:
 
@@ -25,7 +25,7 @@ To provide app functionality and leaderboards, we may store:
 * Streak records
 * Gameplay progress
 
-Technical Data
+## Technical Data
 
 Some technical information may be collected automatically through third-party services used by the app, such as:
 
@@ -35,7 +35,7 @@ Some technical information may be collected automatically through third-party se
 
 This information helps improve the reliability and performance of the app.
 
-How We Use Your Information
+## How We Use Your Information
 
 Your information is used only to:
 
@@ -46,7 +46,7 @@ Your information is used only to:
 
 We do **not sell or share your personal information with third parties for advertising purposes.**
 
-Third-Party Services
+## Third-Party Services
 
 The app uses trusted third-party services that may process limited user information:
 
@@ -78,4 +78,4 @@ We may update this Privacy Policy from time to time. Updates will be posted on t
 
 If you have any questions about this Privacy Policy, you can contact us at:
 
-**[[your-email@example.com](mailto:your-email@example.com)]**
+[rohitoreg@gmail.com]

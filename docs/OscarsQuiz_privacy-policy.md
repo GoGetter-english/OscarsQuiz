@@ -66,6 +66,28 @@ Oscars Quiz is intended for general audiences. We do not knowingly collect perso
 
 If you believe a child has provided personal information, please contact us so we can remove it.
 
+## Account Deletion
+
+You may request deletion of your Oscars Quiz account and associated data at any time.
+
+To request account deletion, please contact us at:
+
+[rohitoreg@gmail.com]
+
+Include the email address used to create your account.
+
+Once we receive your request, we will delete your account and associated data stored in our systems within a reasonable time.
+
+Data that may be deleted includes:
+
+Account email address
+
+User profile information
+
+Quiz statistics and gameplay progress
+
+Some information may be retained temporarily if required for security, legal, or fraud-prevention purposes.
+
 ## Your Rights
 
 You may request deletion of your account and associated data at any time by contacting us.
